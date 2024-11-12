@@ -8,8 +8,8 @@
       <h1> Moving On </h1>
       <p>
         Turning the page, a new chapter unfolds, <br>
-        Leaving the past where it rightly belongs <br>
-        Embracing the future, my heart now grows bold <br>
+        Leaving the past where it rightly belongs. <br>
+        Embracing the future, my heart now grows bold, <br>
         As I move forward, singing hopeful songs. 
       </p>
     </body>
